@@ -9,7 +9,7 @@ Lighthouse là 1 IDA plugin, chuyên về code Coverage. Được sử dụng r�
 
 Mấy anh "tìm gián, đục lỗ" hay dùng plugin này.
 
-CodeCoverage.dll là CodeCoverage64.dll là 2 PinTool được Lighthouse dùng để create/import log tracer từ Pin vào Lighthouse.
+CodeCoverage.dll là CodeCoverage64.dll là 1 PinTool được Lighthouse dùng để create/import log tracer từ Pin vào Lighthouse.
 
 # HDSD
 
